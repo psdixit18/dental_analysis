@@ -1,0 +1,19 @@
+# dental_dataset.yaml
+path: datasets/dental  # Root dataset folder
+train: train/images    # Training images folder
+val: val/images        # Validation images folder
+
+# Number of classes
+nc: 9
+
+# Class names (must match your model.names order)
+names:
+  - Healthy Tooth
+  - Early Cavity
+  - Severe Decay
+  - Gum Disease
+  - Broken Tooth
+  - Filling
+  - Crown
+  - Implant
+  - Other
