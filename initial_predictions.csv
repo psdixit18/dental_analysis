@@ -1,0 +1,192 @@
+image_name,x1,y1,x2,y2,diagnosis,confidence
+sample.jpg,325,153,357,196,Filling,0.88
+sample.jpg,234,272,269,308,Abrasion,0.36
+sample2.jpg,9,63,84,177,Abrasion,0.86
+sample2.jpg,238,38,312,138,Abrasion,0.83
+sample2.jpg,125,14,167,77,Caries 5 class,0.70
+sample2.jpg,379,189,404,219,Caries 5 class,0.69
+sample2.jpg,381,66,401,123,Caries 3 class,0.61
+sample2.jpg,138,166,160,207,Caries 3 class,0.52
+sample2.jpg,427,219,461,272,Caries 5 class,0.49
+sample2.jpg,313,41,388,141,Abrasion,0.48
+sample2.jpg,219,187,240,218,Caries 5 class,0.45
+sample2.jpg,389,43,444,144,Abrasion,0.41
+sample2.jpg,461,44,493,71,Caries 5 class,0.37
+sample2.jpg,362,140,381,176,Caries 3 class,0.34
+sample2.jpg,521,194,548,222,Filling,0.34
+sample2.jpg,97,165,123,208,Filling,0.32
+sample3.jpg,667,806,802,928,Abrasion,0.94
+sample3.jpg,800,786,939,920,Abrasion,0.94
+sample3.jpg,544,834,703,944,Abrasion,0.90
+sample3.jpg,913,721,1061,883,Abrasion,0.85
+sample3.jpg,1103,471,1161,514,Filling,0.76
+sample3.jpg,210,237,372,358,Filling,0.72
+sample3.jpg,320,449,393,543,Filling,0.41
+sample3.jpg,1036,453,1251,627,Abrasion,0.40
+sample3.jpg,510,755,639,882,Abrasion,0.36
+sample3.jpg,272,594,440,760,Abrasion,0.35
+sample3.jpg,201,19,313,196,Caries 1 class,0.30
+sample.jpg,325,153,357,196,Filling,0.88
+sample.jpg,234,272,269,308,Abrasion,0.36
+sample.jpg,325,153,357,196,Filling,0.88
+sample.jpg,234,272,269,308,Abrasion,0.36
+sample2.jpg,9,63,84,177,Abrasion,0.86
+sample2.jpg,238,38,312,138,Abrasion,0.83
+sample2.jpg,125,14,167,77,Caries 5 class,0.70
+sample2.jpg,379,189,404,219,Caries 5 class,0.69
+sample2.jpg,381,66,401,123,Caries 3 class,0.61
+sample2.jpg,138,166,160,207,Caries 3 class,0.52
+sample2.jpg,427,219,461,272,Caries 5 class,0.49
+sample2.jpg,313,41,388,141,Abrasion,0.48
+sample2.jpg,219,187,240,218,Caries 5 class,0.45
+sample2.jpg,389,43,444,144,Abrasion,0.41
+sample2.jpg,461,44,493,71,Caries 5 class,0.37
+sample2.jpg,362,140,381,176,Caries 3 class,0.34
+sample2.jpg,521,194,548,222,Filling,0.34
+sample2.jpg,97,165,123,208,Filling,0.32
+sample3.jpg,667,806,802,928,Abrasion,0.94
+sample3.jpg,800,786,939,920,Abrasion,0.94
+sample3.jpg,544,834,703,944,Abrasion,0.90
+sample3.jpg,913,721,1061,883,Abrasion,0.85
+sample3.jpg,1103,471,1161,514,Filling,0.76
+sample3.jpg,210,237,372,358,Filling,0.72
+sample3.jpg,320,449,393,543,Filling,0.41
+sample3.jpg,1036,453,1251,627,Abrasion,0.40
+sample3.jpg,510,755,639,882,Abrasion,0.36
+sample3.jpg,272,594,440,760,Abrasion,0.35
+sample3.jpg,201,19,313,196,Caries 1 class,0.30
+sample.jpg,325,153,357,196,Filling,0.88
+sample.jpg,234,272,269,308,Abrasion,0.36
+sample2.jpg,9,63,84,177,Abrasion,0.86
+sample2.jpg,238,38,312,138,Abrasion,0.83
+sample2.jpg,125,14,167,77,Caries 5 class,0.70
+sample2.jpg,379,189,404,219,Caries 5 class,0.69
+sample2.jpg,381,66,401,123,Caries 3 class,0.61
+sample2.jpg,138,166,160,207,Caries 3 class,0.52
+sample2.jpg,427,219,461,272,Caries 5 class,0.49
+sample2.jpg,313,41,388,141,Abrasion,0.48
+sample2.jpg,219,187,240,218,Caries 5 class,0.45
+sample2.jpg,389,43,444,144,Abrasion,0.41
+sample2.jpg,461,44,493,71,Caries 5 class,0.37
+sample2.jpg,362,140,381,176,Caries 3 class,0.34
+sample2.jpg,521,194,548,222,Filling,0.34
+sample2.jpg,97,165,123,208,Filling,0.32
+sample3.jpg,667,806,802,928,Abrasion,0.94
+sample3.jpg,800,786,939,920,Abrasion,0.94
+sample3.jpg,544,834,703,944,Abrasion,0.90
+sample3.jpg,913,721,1061,883,Abrasion,0.85
+sample3.jpg,1103,471,1161,514,Filling,0.76
+sample3.jpg,210,237,372,358,Filling,0.72
+sample3.jpg,320,449,393,543,Filling,0.41
+sample3.jpg,1036,453,1251,627,Abrasion,0.40
+sample3.jpg,510,755,639,882,Abrasion,0.36
+sample3.jpg,272,594,440,760,Abrasion,0.35
+sample3.jpg,201,19,313,196,Caries 1 class,0.30
+sample.jpg,325,153,357,196,Filling,0.88
+sample.jpg,234,272,269,308,Abrasion,0.36
+sample2.jpg,9,63,84,177,Abrasion,0.86
+sample2.jpg,238,38,312,138,Abrasion,0.83
+sample2.jpg,125,14,167,77,Caries 5 class,0.70
+sample2.jpg,379,189,404,219,Caries 5 class,0.69
+sample2.jpg,381,66,401,123,Caries 3 class,0.61
+sample2.jpg,138,166,160,207,Caries 3 class,0.52
+sample2.jpg,427,219,461,272,Caries 5 class,0.49
+sample2.jpg,313,41,388,141,Abrasion,0.48
+sample2.jpg,219,187,240,218,Caries 5 class,0.45
+sample2.jpg,389,43,444,144,Abrasion,0.41
+sample2.jpg,461,44,493,71,Caries 5 class,0.37
+sample2.jpg,362,140,381,176,Caries 3 class,0.34
+sample2.jpg,521,194,548,222,Filling,0.34
+sample2.jpg,97,165,123,208,Filling,0.32
+sample3.jpg,667,806,802,928,Abrasion,0.94
+sample3.jpg,800,786,939,920,Abrasion,0.94
+sample3.jpg,544,834,703,944,Abrasion,0.90
+sample3.jpg,913,721,1061,883,Abrasion,0.85
+sample3.jpg,1103,471,1161,514,Filling,0.76
+sample3.jpg,210,237,372,358,Filling,0.72
+sample3.jpg,320,449,393,543,Filling,0.41
+sample3.jpg,1036,453,1251,627,Abrasion,0.40
+sample3.jpg,510,755,639,882,Abrasion,0.36
+sample3.jpg,272,594,440,760,Abrasion,0.35
+sample3.jpg,201,19,313,196,Caries 1 class,0.30
+sample.jpg,325,153,357,196,Filling,0.88
+sample.jpg,234,272,269,308,Abrasion,0.36
+sample2.jpg,9,63,84,177,Abrasion,0.86
+sample2.jpg,238,38,312,138,Abrasion,0.83
+sample2.jpg,125,14,167,77,Caries 5 class,0.70
+sample2.jpg,379,189,404,219,Caries 5 class,0.69
+sample2.jpg,381,66,401,123,Caries 3 class,0.61
+sample2.jpg,138,166,160,207,Caries 3 class,0.52
+sample2.jpg,427,219,461,272,Caries 5 class,0.49
+sample2.jpg,313,41,388,141,Abrasion,0.48
+sample2.jpg,219,187,240,218,Caries 5 class,0.45
+sample2.jpg,389,43,444,144,Abrasion,0.41
+sample2.jpg,461,44,493,71,Caries 5 class,0.37
+sample2.jpg,362,140,381,176,Caries 3 class,0.34
+sample2.jpg,521,194,548,222,Filling,0.34
+sample2.jpg,97,165,123,208,Filling,0.32
+sample3.jpg,667,806,802,928,Abrasion,0.94
+sample3.jpg,800,786,939,920,Abrasion,0.94
+sample3.jpg,544,834,703,944,Abrasion,0.90
+sample3.jpg,913,721,1061,883,Abrasion,0.85
+sample3.jpg,1103,471,1161,514,Filling,0.76
+sample3.jpg,210,237,372,358,Filling,0.72
+sample3.jpg,320,449,393,543,Filling,0.41
+sample3.jpg,1036,453,1251,627,Abrasion,0.40
+sample3.jpg,510,755,639,882,Abrasion,0.36
+sample3.jpg,272,594,440,760,Abrasion,0.35
+sample3.jpg,201,19,313,196,Caries 1 class,0.30
+sample.jpg,325,153,357,196,Filling,0.88
+sample.jpg,234,272,269,308,Abrasion,0.36
+sample2.jpg,9,63,84,177,Abrasion,0.86
+sample2.jpg,238,38,312,138,Abrasion,0.83
+sample2.jpg,125,14,167,77,Caries 5 class,0.70
+sample2.jpg,379,189,404,219,Caries 5 class,0.69
+sample2.jpg,381,66,401,123,Caries 3 class,0.61
+sample2.jpg,138,166,160,207,Caries 3 class,0.52
+sample2.jpg,427,219,461,272,Caries 5 class,0.49
+sample2.jpg,313,41,388,141,Abrasion,0.48
+sample2.jpg,219,187,240,218,Caries 5 class,0.45
+sample2.jpg,389,43,444,144,Abrasion,0.41
+sample2.jpg,461,44,493,71,Caries 5 class,0.37
+sample2.jpg,362,140,381,176,Caries 3 class,0.34
+sample2.jpg,521,194,548,222,Filling,0.34
+sample2.jpg,97,165,123,208,Filling,0.32
+sample3.jpg,667,806,802,928,Abrasion,0.94
+sample3.jpg,800,786,939,920,Abrasion,0.94
+sample3.jpg,544,834,703,944,Abrasion,0.90
+sample3.jpg,913,721,1061,883,Abrasion,0.85
+sample3.jpg,1103,471,1161,514,Filling,0.76
+sample3.jpg,210,237,372,358,Filling,0.72
+sample3.jpg,320,449,393,543,Filling,0.41
+sample3.jpg,1036,453,1251,627,Abrasion,0.40
+sample3.jpg,510,755,639,882,Abrasion,0.36
+sample3.jpg,272,594,440,760,Abrasion,0.35
+sample3.jpg,201,19,313,196,Caries 1 class,0.30
+sample.jpg,325,153,357,196,Filling,0.88
+sample.jpg,234,272,269,308,Abrasion,0.36
+sample2.jpg,9,63,84,177,Abrasion,0.86
+sample2.jpg,238,38,312,138,Abrasion,0.83
+sample2.jpg,125,14,167,77,Caries 5 class,0.70
+sample2.jpg,379,189,404,219,Caries 5 class,0.69
+sample2.jpg,381,66,401,123,Caries 3 class,0.61
+sample2.jpg,138,166,160,207,Caries 3 class,0.52
+sample2.jpg,427,219,461,272,Caries 5 class,0.49
+sample2.jpg,313,41,388,141,Abrasion,0.48
+sample2.jpg,219,187,240,218,Caries 5 class,0.45
+sample2.jpg,389,43,444,144,Abrasion,0.41
+sample2.jpg,461,44,493,71,Caries 5 class,0.37
+sample2.jpg,362,140,381,176,Caries 3 class,0.34
+sample2.jpg,521,194,548,222,Filling,0.34
+sample2.jpg,97,165,123,208,Filling,0.32
+sample3.jpg,667,806,802,928,Abrasion,0.94
+sample3.jpg,800,786,939,920,Abrasion,0.94
+sample3.jpg,544,834,703,944,Abrasion,0.90
+sample3.jpg,913,721,1061,883,Abrasion,0.85
+sample3.jpg,1103,471,1161,514,Filling,0.76
+sample3.jpg,210,237,372,358,Filling,0.72
+sample3.jpg,320,449,393,543,Filling,0.41
+sample3.jpg,1036,453,1251,627,Abrasion,0.40
+sample3.jpg,510,755,639,882,Abrasion,0.36
+sample3.jpg,272,594,440,760,Abrasion,0.35
+sample3.jpg,201,19,313,196,Caries 1 class,0.30

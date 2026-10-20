@@ -1,7 +1,7 @@
 # dental_dataset.yaml
 path: datasets/dental  # Root dataset folder
 train: train/images    # Training images folder
-val: val/images        # Validation images folder
+val: train/images        # Validation images folder
 
 # Number of classes
 nc: 9

@@ -1,0 +1,14 @@
+1,9,63,84,177,Abrasion
+2,238,38,312,138,Abrasion
+3,125,14,167,77,Caries 5 class
+4,379,189,404,219,Caries 5 class
+5,381,66,401,123,Caries 3 class
+6,138,166,160,207,Caries 3 class
+7,427,219,461,272,Caries 5 class
+8,313,41,388,141,Abrasion
+9,219,187,240,218,Caries 5 class
+10,389,43,444,144,Abrasion
+11,461,44,493,71,Caries 5 class
+12,362,140,381,176,Caries 3 class
+13,521,194,548,222,Filling
+14,97,165,123,208,Filling
